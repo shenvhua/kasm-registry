@@ -2,7 +2,7 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
+    name: 'Kasm c',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://shenvhua.github.io/kasm-registry/',
