@@ -1,6 +1,6 @@
 {
   "friendly_name": "cloudflare_chrome",
-  "image_src": "cloudflare-chrome.png",
+  "image_src": "cloudflare_chrome.png",
   "description": "This is cloudflare_chrome, need root and open cloudflare",
   "name": "clarkck/cloudflare_chrome:v01",
   "cores": 2,
