@@ -1,0 +1,20 @@
+{
+  "friendly_name": "cloudflare_chrome",
+  "image_src": "cloudflare-chrome.png",
+  "description": "This is cloudflare_chrome, need root and open cloudflare",
+  "name": "clarkck/cloudflare_chrome:v01",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Browser"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ]
+}
