@@ -1,0 +1,20 @@
+{
+  "friendly_name": "obsidian",
+  "image_src": "obsidian-icon.svg",
+  "description": "obsidian",
+  "name": "registry.cn-guangzhou.aliyuncs.com/niceclark/kasm-obsidian:v0.1",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://registry-vpc.cn-guangzhou.aliyuncs.com",
+  "categories": [
+    "Office"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ]
+}
