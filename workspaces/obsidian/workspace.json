@@ -2,7 +2,7 @@
   "friendly_name": "obsidian",
   "image_src": "obsidian-icon.svg",
   "description": "obsidian",
-  "name": "registry.cn-guangzhou.aliyuncs.com/niceclark/kasm-obsidian:v0.1",
+  "name": "niceclark/kasm-obsidian:v0.1",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
